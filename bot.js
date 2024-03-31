@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const config = require("./config/config.json");
+const config = require(".config.json");
 const animeCommands = require("./commands/anime.js");
 const helpCommands = require("./commands/help.js");
 const logger = require("./untils/logger.js");
