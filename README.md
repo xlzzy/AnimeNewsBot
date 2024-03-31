@@ -1,0 +1,1 @@
+The Anime News Discord Bot is an intelligent assistant tailored for anime enthusiasts within Discord communities. This bot is meticulously designed to keep users updated with the latest news, announcements, releases, and updates from the vibrant world of anime.
