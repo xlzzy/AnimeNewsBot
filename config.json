@@ -1,0 +1,5 @@
+{
+  "token": "BOT_TOKEN",
+  "prefix": "?",
+  "newsApiUrl": "https://www.animenewsnetwork.com/news/rss.xml"
+}
